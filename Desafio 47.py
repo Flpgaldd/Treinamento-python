@@ -1,3 +1,3 @@
-for c in range(0, 50 + 2, 2):
-    print(c)
+for x in range(2, 51, 2):
+    print(x, end=" ")
 print("Acabou")
